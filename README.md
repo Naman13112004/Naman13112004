@@ -95,7 +95,7 @@
 
 ### 📂 Check Out My Work
 
-🔗 [My GitHub Repos »](https://github.com/Naman13112004)
+🔗 [My GitHub Repos »](https://github.com/Naman13112004?tab=repositories)
 
 ---
 
