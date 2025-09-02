@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
 
 <h3 align="center">
-🎮 Game Dev Student | 👨‍💻 CS Undergrad | SaaS & AI App Builder | 💡 Explorer of DSA, CP & Hackathons | 🧘‍♂️ Calm Mind, Strong Code
+👨‍💻 CS Pre-Final Year | 💻 Aspiring Software Developer | 🌐 Full-Stack (Next.js, Node.js) | ⚙️ Exploring DevOps & Cloud | 🚀 AI & SaaS Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=42F5C5&center=true&vCenter=true&width=435&lines=Building+Unreal+Horror+Game+👻;Crafting+SaaS+%26+AI+Apps+🧠;CS+Student+with+a+Dream+%F0%9F%A7%9C;Let's+Build+Together+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=42F5C5&center=true&vCenter=true&width=500&lines=Building+Full-Stack+Apps+🌐;Exploring+DevOps+%26+Cloud+⚙️;Prototyping+AI-Powered+Tools+🤖;CS+Student+Learning+By+Doing+📚" />
 </p>
 
 ---
 
 ### 🔭 Currently Working On
 
-- 👻 **A Thriller/Horror Story Game** in Unreal Engine 5 (C++)
-- 🚀 Building **AI-powered SaaS Apps** for productivity and learning
-- 🔥 Exploring **DSA**, **Competitive Programming**, and **Hackathons**
-- 🧪 Experimenting with OpenAI, Next.js, and Realtime WebTech
+- 🚀 Building **Full-Stack Web Apps** with Next.js & Node.js  
+- 🤖 Prototyping **AI-powered SaaS Tools** for real-world problems  
+- ⚙️ Exploring **DevOps, CI/CD, and Cloud fundamentals**  
+- 📚 Strengthening **DSA, Problem Solving, and Competitive Programming**
 
 ---
 
@@ -38,15 +38,14 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blueprints-00599C?style=for-the-badge&logo=blueprint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -87,9 +86,9 @@
 
 ### 📌 Fun Facts
 
-- 🎧 I'm a chill introvert who codes to lo-fi beats  
-- 📖 I’m *"modern yet traditional"* — a blend of hustle + values  
-- 🎯 Currently building skills to **publish my first game & product**
+- 🎧 I love coding to lo-fi beats  
+- 📖 I believe in *"learning by building"* — real projects teach the most  
+- 🎯 Currently building skills to **publish SaaS tools & land software internships**
 
 ---
 
@@ -99,5 +98,4 @@
 
 ---
 
-> ⚡ Pro Tip: Keep coming back, because I update this often when I grow 😉
-
+> ⚡ Pro Tip: Keep coming back, because I update this often as I grow 😉
