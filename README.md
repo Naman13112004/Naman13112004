@@ -32,7 +32,7 @@
   <a href="https://twitter.com/namanjain1304" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
-  <a href="mailto:njudaipur04@gmail.com">
+  <a href="mailto:naman.jain.udp04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
