@@ -1,105 +1,182 @@
 <h1 align="center">Hi 👋, I'm Naman Jain</h1>
 
 <h3 align="center">
-👨‍💻 CS Pre-Final Year | 💻 Aspiring Software Developer | 🌐 Full-Stack (Next.js, Node.js) | ⚙️ Exploring DevOps & Cloud | 🚀 AI & SaaS Builder
+👨‍💻 CS Pre-Final Year | 🌐 Full-Stack Developer (Next.js, Node.js) <br/>
+⚙️ DevOps & Cloud Explorer | 🚀 AI & SaaS Builder
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naman13112004&label=Profile%20views&color=0e75b6&style=flat" alt="Naman13112004" />
+  <img src="https://komarev.com/ghpvc/?username=Naman13112004&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=42F5C5&center=true&vCenter=true&width=500&lines=Building+Full-Stack+Apps+🌐;Exploring+DevOps+%26+Cloud+⚙️;Prototyping+AI-Powered+Tools+🤖;CS+Student+Learning+By+Doing+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=42F5C5&center=true&vCenter=true&width=520&lines=Building+Full-Stack+Web+Apps;Exploring+DevOps+%26+Cloud;Prototyping+AI-Powered+SaaS;Learning+by+Building+🚀" />
 </p>
 
 ---
 
-### 🔭 Currently Working On
-
-- 🚀 Building **Full-Stack Web Apps** with Next.js & Node.js  
-- 🤖 Prototyping **AI-powered SaaS Tools** for real-world problems  
-- ⚙️ Exploring **DevOps, CI/CD, and Cloud fundamentals**  
-- 📚 Strengthening **DSA, Problem Solving, and Competitive Programming**
-
----
-
-### 💫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/naman-jain-b65428285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<!-- 🔗 SOCIAL LINKS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/naman-jain-b65428285/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/namanjain1304" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+  <a href="https://x.com/NamanJain1304">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
   </a>
   <a href="mailto:naman.jain.udp04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@TechyUDP">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://portfolio-naman-murex.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1jDtolO7xs5U0_KQlZQErGCE5qOgoXj6X/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Tech Stack
+
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind" />
+
+### 🖥️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,supabase" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,vercel,netlify" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- DevOps & CI/CD (GitHub Actions, Docker workflows)
+- Cloud Architecture (AWS fundamentals)
+- System Design & scalable backend systems
+- Production-grade deployments & monitoring
+
+
+---
+
+## 🚀 Featured Projects (High Impact)
+
+### 🪄 MerchAI Restyler — AI-Powered Product Image Generator
+**AI SaaS for e-commerce & creators**
+
+Transforms basic product photos into marketing-ready visuals using a **two-step AI pipeline (Vision → Generation)**.
+
+- Upload product image → apply natural language styling
+- Hybrid AI: Gemini Vision + Freepik AI
+- Persistent storage, history & downloads
+- Industry-grade service-layer architecture
+
+**Tech:** Next.js 14, TypeScript, Tailwind, Zustand, Supabase, Zod, Gemini AI  
+🔗 GitHub: https://github.com/Naman13112004/ai-merch-stylist  
+🌐 Live: https://merch-ai-restyler.vercel.app/
+
+---
+
+### 🧠 MeetAI — AI-Powered Video Collaboration Platform
+**Real-time meetings with AI assistance**
+
+- Live video rooms & recordings
+- AI-generated transcripts & conversational agents
+- Secure authentication & scheduling
+- Real-time events via WebSockets
+
+**Tech:** Next.js (App Router), TypeScript, Stream SDK, OpenAI, Tailwind  
+🔗 GitHub: https://github.com/Naman13112004/meetai  
+🌐 Live: https://meetai-rosy.vercel.app/
+
+---
+
+### 💰 Welth — Personal Finance Management Platform
+**Personal finance tracking with AI insights**
+
+- Income & expense tracking
+- Budget alerts & dashboards
+- Clean data modeling & secure auth
+- AI-powered financial summaries
+
+**Tech:** Next.js, Prisma, SQL, Supabase, Clerk, Gemini API  
+🔗 GitHub: https://github.com/Naman13112004/welth  
+🌐 Live: https://welth-ashen-one.vercel.app/
+
+---
+
+## 🛠 Full-Stack & Product Engineering
+
+### 📋 Planly — Requirement Posting Flow (Monorepo)
+**Type-safe full-stack event requirement system**
+
+- Multi-step dynamic form (Planner / Performer / Crew)
+- Shared validation logic using Zod
+- Clean MVC backend with Express + MongoDB
+- Zustand-powered global form state
+
+**Tech:** Next.js, TypeScript, Zustand, React Hook Form, Zod, Express, MongoDB  
+🔗 GitHub: https://github.com/Naman13112004/planly  
+🌐 Live: https://planly-three.vercel.app/
+
+---
+
+## 🧠 Engineering & Systems Projects
+
+### 🖥️ cliflow — CLI Analytics Tool (C++)
+**Production-quality shell history analyzer**
+
+A cross-platform CLI tool that analyzes shell history to generate meaningful usage insights.
+
+**Key Capabilities**
+- Top-N command frequency analysis
+- Longest command detection
+- Risky command identification (`rm -rf`, `dd`, `mkfs`)
+- Auto-detects Bash/Zsh history
+- Handles malformed input gracefully
+
+**Engineering Highlights**
+- Zero dependencies (STL only)
+- O(n) parsing & analysis
+- Compatible with C++11/14/17
+- Modular architecture (Parser / Analyzer / Report)
+
+**Tech:** Modern C++, STL, GCC/Clang/MSVC  
+🔗 GitHub: https://github.com/Naman13112004/cli-flow  
+⬇️ Pre-compiled binaries available via Releases  
+https://github.com/Naman13112004/cli-flow/releases
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naman13112004&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naman13112004&theme=tokyonight" />
+</p>
+
+<!-- Alternative to streak/activity graph (more stable) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman13112004&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2EA043/Naman13112004" alt="Naman Jain's GitHub Contribution Graph" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics
+### ✨ Philosophy
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman13112004&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
-</p>
+> *"Build real things. Learn deeply. Grow consistently."*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naman13112004&show_icons=true&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman13112004&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naman13112004&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### ✍️ Quote That Drives Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=4DE1B5&center=true&vCenter=true&width=435&lines=Build+Code+That+Builds+People+%F0%9F%A7%9C" />
-</p>
-
----
-
-### 📌 Fun Facts
-
-- 🎧 I love coding to lo-fi beats  
-- 📖 I believe in *"learning by building"* — real projects teach the most  
-- 🎯 Currently building skills to **publish SaaS tools & land software internships**
-
----
-
-### 📂 Check Out My Work
-
-🔗 [My GitHub Repos »](https://github.com/Naman13112004?tab=repositories)
-
----
-
-> ⚡ Pro Tip: Keep coming back, because I update this often as I grow 😉
+⚡ *This profile evolves as I grow — check back often!*
